@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# 关于AdditiveHandbook
+欢迎使用本应用和服务，为了获得更好的用户体验，请仔细阅读以下信息。
+## 使用说明
+这是一本简洁的“食品添加剂手册”，目前收录了《食品安全国家标准 食品添加剂使用标准》（GB 2760 - 2014）和后续的增补内容。相信不论你是一名食品行业从业者，或者是一名关心家人饮食的“家庭煮夫/妇”，它都能提供你想要的参考信息。
 
-You can use the [editor on GitHub](https://github.com/AdditiveHandbook/Support/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* 食品添加剂
+这里列出了2760及其增补中收录的添加剂清单，在这里可以快速访问、查找某个添加剂的使用范围。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 功能类别
+按照添加剂的功能进行分类，并提供了添加剂在用作某一功能时的使用范围信息。
 
-### Markdown
+* 食品分类系统
+一张简洁、高效的食品分类表，并链接了各个类别下可用的添加剂清单。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 特殊表
+这里收录了2760中几个常用的特殊表，包括表A.2、表A.3、表B.1，以及各个后续的增补清单。
 
-```markdown
-Syntax highlighted code block
+作为一款“副产品”，希望有一天能成长为一本“大而全”的“添加剂手册”。如果能为食品添加剂正名就再好不过了。
 
-# Header 1
-## Header 2
-### Header 3
+## 免责声明
 
-- Bulleted
-- List
+* 本数据库根据国家相关标准和后续的增补公告收集、整理和维护，所载明的内容仅供参考。本数据库对其准确性和有效性不提供任何保证，也不承担任何法律责任。
 
-1. Numbered
-2. List
+* 本数据库所载明的任何内容与国家法律法规、相关标准和公告不一致时，以国家法律法规、相关标准和公告为准。
 
-**Bold** and _Italic_ and `Code` text
+* 本数据库由开发者根据个人对相关标准、规定的理解制作而成，因个人时间、精力和能力有限，难免存在错误。对数据库任何内容如有疑问，请与开发者联系。
 
-[Link](url) and ![Image](src)
-```
+## 隐私政策
+本应用尊重并保护所有使用服务用户的个人隐私。本应用目前版本不会以任何形式收集、记录或保存用户的任何信息。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+随着应用版本的迭代，未来可能会加入其它功能。届时为了给用户提供更准确、更富个性化的服务，本应用可能会更改隐私政策，并严格按照隐私政策的规定使用用户的信息。
 
-### Jekyll Themes
+如果决定更改隐私政策，我们会在本政策中，或者其它我们认为适当的位置发布这些更改，以便用户了解我们如何收集、使用用户的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透漏这些信息。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdditiveHandbook/Support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+开发者保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，开发者会及时告知。
 
-### Support or Contact
+如果你认为本应用的服务或行为与本隐私政策不符，或者你认为本应用的服务或行为侵犯了您的隐私，请及时与开发者联系。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 意见&吐槽
+你可以给通过邮件反馈你的意见和吐槽：
+
+**Email: additivedemo@outlook.com**
